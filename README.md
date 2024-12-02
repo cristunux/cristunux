@@ -1,6 +1,7 @@
 ## Hi there 👋
 😄 I am Cristina
 🌱 I’m currently studying Data Science
+![3029517e824f67d07d86af9bf0b0d795](https://github.com/user-attachments/assets/34cfbe0a-1c8d-4db9-bc96-5927e418c3b7)
 
 <!--
 **cristunux/cristunux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
